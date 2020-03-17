@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"bootstrapped": true,
 	"in_process_packages":
 	[
@@ -20,4 +21,23 @@
 		"SublimeLinter",
 		"SublimeLinter-rubocop"
 	]
+=======
+  "installed_packages":
+  [
+    "A File Icon",
+    "AdvancedNewFile",
+    "All Autocomplete",
+    "Babel",
+    "Emmet",
+    "ERB Snippets",
+    "Git",
+    "Latest Migration",
+    "MagicPython",
+    "Package Control",
+    "SCSS",
+    "SublimeLinter",
+    "SublimeLinter-rubocop",
+    "BracketHighlighter"
+  ]
+>>>>>>> 9b4c389d527c229f5e28eee4da6a76b99fade49d
 }
